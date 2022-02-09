@@ -1,4 +1,10 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Aldi Saepurahman**.\
+
+Saya seorang **Mahasiswa Ilmu Komputer** di [Universitas Pendidikan Indonesia](https://www.upi.edu/).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aldi-saepurahman-364a81153/)ku ya.
 
 <!--
 **aldisaepurahman/aldisaepurahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
